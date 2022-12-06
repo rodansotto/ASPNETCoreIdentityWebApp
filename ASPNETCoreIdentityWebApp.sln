@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETCoreIdentityWebApp", "ASPNETCoreIdentityWebApp\ASPNETCoreIdentityWebApp.csproj", "{8EA68A4C-F49B-4B09-8C8C-8A14267F6BC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppUsingIdentity", "ConsoleAppUsingIdentity\ConsoleAppUsingIdentity.csproj", "{07A4AA48-799C-4F9A-A329-1CB43E79833C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EA68A4C-F49B-4B09-8C8C-8A14267F6BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA68A4C-F49B-4B09-8C8C-8A14267F6BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA68A4C-F49B-4B09-8C8C-8A14267F6BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA68A4C-F49B-4B09-8C8C-8A14267F6BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07A4AA48-799C-4F9A-A329-1CB43E79833C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A4AA48-799C-4F9A-A329-1CB43E79833C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A4AA48-799C-4F9A-A329-1CB43E79833C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A4AA48-799C-4F9A-A329-1CB43E79833C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44F77B1E-A142-48BB-81E2-858619553653}
+	EndGlobalSection
+EndGlobal
